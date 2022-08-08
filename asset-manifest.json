@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7Bhouse_threejs_react%7D/static/css/main.073c9b0a.css",
-    "main.js": "/%7Bhouse_threejs_react%7D/static/js/main.3c839992.js",
-    "static/js/787.71df535f.chunk.js": "/%7Bhouse_threejs_react%7D/static/js/787.71df535f.chunk.js",
-    "static/media/color.jpg": "/%7Bhouse_threejs_react%7D/static/media/color.a6ea7ea683db3dbf1ae0.jpg",
-    "static/media/normal.jpg": "/%7Bhouse_threejs_react%7D/static/media/normal.6d05b9fe50a09f055b9c.jpg",
-    "static/media/ambientOcclusion.jpg": "/%7Bhouse_threejs_react%7D/static/media/ambientOcclusion.52d513d7caf817d0c9b1.jpg",
-    "static/media/roughness.jpg": "/%7Bhouse_threejs_react%7D/static/media/roughness.c4167c276e23526bf787.jpg",
-    "static/media/height.jpg": "/%7Bhouse_threejs_react%7D/static/media/height.855dc782cb9037740e6f.jpg",
-    "static/media/metalness.jpg": "/%7Bhouse_threejs_react%7D/static/media/metalness.b55cd732e2813ae3c548.jpg",
-    "static/media/alpha.jpg": "/%7Bhouse_threejs_react%7D/static/media/alpha.ba6b22be64ee46f5ce1a.jpg",
-    "index.html": "/%7Bhouse_threejs_react%7D/index.html",
-    "main.073c9b0a.css.map": "/%7Bhouse_threejs_react%7D/static/css/main.073c9b0a.css.map",
-    "main.3c839992.js.map": "/%7Bhouse_threejs_react%7D/static/js/main.3c839992.js.map",
-    "787.71df535f.chunk.js.map": "/%7Bhouse_threejs_react%7D/static/js/787.71df535f.chunk.js.map"
+    "main.css": "/house_threejs_react/static/css/main.073c9b0a.css",
+    "main.js": "/house_threejs_react/static/js/main.90964541.js",
+    "static/js/787.71df535f.chunk.js": "/house_threejs_react/static/js/787.71df535f.chunk.js",
+    "static/media/color.jpg": "/house_threejs_react/static/media/color.a6ea7ea683db3dbf1ae0.jpg",
+    "static/media/normal.jpg": "/house_threejs_react/static/media/normal.6d05b9fe50a09f055b9c.jpg",
+    "static/media/ambientOcclusion.jpg": "/house_threejs_react/static/media/ambientOcclusion.52d513d7caf817d0c9b1.jpg",
+    "static/media/roughness.jpg": "/house_threejs_react/static/media/roughness.c4167c276e23526bf787.jpg",
+    "static/media/height.jpg": "/house_threejs_react/static/media/height.855dc782cb9037740e6f.jpg",
+    "static/media/metalness.jpg": "/house_threejs_react/static/media/metalness.b55cd732e2813ae3c548.jpg",
+    "static/media/alpha.jpg": "/house_threejs_react/static/media/alpha.ba6b22be64ee46f5ce1a.jpg",
+    "index.html": "/house_threejs_react/index.html",
+    "main.073c9b0a.css.map": "/house_threejs_react/static/css/main.073c9b0a.css.map",
+    "main.90964541.js.map": "/house_threejs_react/static/js/main.90964541.js.map",
+    "787.71df535f.chunk.js.map": "/house_threejs_react/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3c839992.js"
+    "static/js/main.90964541.js"
   ]
 }
